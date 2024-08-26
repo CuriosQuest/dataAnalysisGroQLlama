@@ -3,3 +3,4 @@ pandas
 langchain-groq
 python-dotenv
 streamlit
+seaborn
